@@ -25,6 +25,7 @@ body {
   background-color: var(--Light-grayish-blue);
   padding: 15px 15px;
   max-width: 1440px;
+  margin: 10px 50px;
 }
 
 li {
