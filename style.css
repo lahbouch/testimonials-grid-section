@@ -136,12 +136,3 @@ article:nth-child(5) ul {
     grid-area: patrick;
   }
 }
-.attribution {
-  grid-column: 1/5;
-  font-size: 15px;
-  text-align: center;
-  margin-bottom: 10px;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
